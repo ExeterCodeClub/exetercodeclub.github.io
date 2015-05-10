@@ -1,0 +1,8 @@
+div.jumbotron.ecc-header {
+    background-image:url(../images/header.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;	
+}
+div.ecc-header div.container { 
+min-height:160px;
+}
